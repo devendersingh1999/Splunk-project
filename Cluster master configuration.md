@@ -7,7 +7,7 @@ tar -zxvf splunk package .tgz
 cd splunk/bin/
 ./splunk start --accept-license
 
-**this is cluster bundle**
+*this is cluster bundle*
 ---------------------------
 cd opt/splunk/etc/master-apps/_cluster/local
 
