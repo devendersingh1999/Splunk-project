@@ -1,6 +1,5 @@
 **Cluster Master**
 ----------------
-
 sudo su
 
 cd /opt
