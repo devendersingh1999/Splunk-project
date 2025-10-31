@@ -1,5 +1,4 @@
 **Cluster Master**
-
 ----------------
 
 sudo su
