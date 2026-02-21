@@ -30,7 +30,7 @@ homePath   = /opt/splunk/var/lib/splunk/security_logs/db
 coldPath   = /opt/splunk/var/lib/splunk/security_logs/colddb
 thawedPath = /opt/splunk/var/lib/splunk/security_logs/thaweddb
 
-**defining the rf and sf**
+**defining the replcationFactor and sf**
 -------------------------
 /opt/splunk/etc/system/local/server.conf
 
